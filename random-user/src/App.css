@@ -1,0 +1,11 @@
+.container {
+  background: linear-gradient(
+    0deg,
+    rgba(55, 129, 226, 0.684) 10%,
+    rgba(230, 225, 218, 0.757) 94%
+  );
+  box-shadow: 10px 10px 5px 5px rgba(55, 129, 226, 0.684);
+}
+.email {
+  width: 45px;
+}
