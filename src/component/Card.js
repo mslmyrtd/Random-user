@@ -76,8 +76,8 @@ const Card = () => {
           </Col>
         </Row>
       </Container>
-      <div className="d-flex justify-content-center mt-3 btn">
-        <Button variant="primary" size="lg" onClick={data}>
+      <div className="d-flex justify-content-center mt-4 ">
+        <Button variant="primary" size="lg" onClick={data} className="w-50">
           Random User
         </Button>
       </div>
